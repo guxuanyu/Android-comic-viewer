@@ -8,3 +8,8 @@
 ![face](https://raw.githubusercontent.com/guxuanyu/Android-comic-viewer/master/main/res/drawable/mypicc.png)
 
 2017/5/18
+
+网站源改成动态加载
+爬虫不好爬了
+请使用动漫之家第三方客户端（酷安手机客户端搜索即可）
+2017/7/12
